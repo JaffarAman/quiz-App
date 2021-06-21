@@ -1,0 +1,70 @@
+login form hona chaye (validation ky sath)
+name
+email
+phone #
+Institute name
+
+
+Start Button
+
+Rules and Reguation form
+
+
+MCQS Session
+userName Name show and timer in top
+
+
+
+,
+    {
+        num : 7,
+        question : "The correct sequence of HTML tags for starting a webpage is",
+        Option : {
+            a : "Head, Title, HTML, body",
+            b : "HTML, Body, Title, Head",
+            c : "HTML, Head, Title, Body",
+            d : "HTML, Head, Title, Body",
+
+        },
+        answer : "HTML, Head, Title, Body"
+    },
+    {
+        num : 8,
+        question : "Which of the following element is responsible for making the text bold in HTML?",
+        Option : {
+            a : "<pre>",
+            b : "<a>",
+            c : "<b>",
+            d : "<br />",
+
+        },
+        answer : "<b>"
+    },
+    {
+        num : 9,
+        question : "Which of the following tag is used for inserting the largest heading in HTML?",
+        Option : {
+            a : "<h5>",
+            b : "<h0>",
+            c : "<h1>",
+            d : "<h6>",
+
+        },
+        answer : "<h1>"
+    },
+    {
+        num : 10,
+        question : "Which of the following tag is used to insert a line-break in HTML?",
+        Option : {
+            a : "<br>",
+            b : "<a>",
+            c : "<pre>",
+            d : "<b>",
+
+        },
+        answer : "<br>"
+    }
+
+
+
+
